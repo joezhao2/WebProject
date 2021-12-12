@@ -5,3 +5,10 @@ img{
 p{
     color: orange;
 }
+/* Set the size of the div element that contains the map */
+#map {
+    height: 600px;
+    /* The height is 400 pixels */
+    width: 70%;
+    /* The width is the width of the web page */
+  }
